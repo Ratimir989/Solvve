@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Solvve\Client-Server & HTTP\TCP Client\TCP Client\bin\Debug\netcoreapp3.1\TCP Client.exe
+C:\Users\Admin\Desktop\Solvve\Client-Server & HTTP\TCP Client\TCP Client\bin\Debug\netcoreapp3.1\TCP Client.deps.json
+C:\Users\Admin\Desktop\Solvve\Client-Server & HTTP\TCP Client\TCP Client\bin\Debug\netcoreapp3.1\TCP Client.runtimeconfig.json
+C:\Users\Admin\Desktop\Solvve\Client-Server & HTTP\TCP Client\TCP Client\bin\Debug\netcoreapp3.1\TCP Client.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Solvve\Client-Server & HTTP\TCP Client\TCP Client\bin\Debug\netcoreapp3.1\TCP Client.dll
+C:\Users\Admin\Desktop\Solvve\Client-Server & HTTP\TCP Client\TCP Client\bin\Debug\netcoreapp3.1\TCP Client.pdb
+C:\Users\Admin\Desktop\Solvve\Client-Server & HTTP\TCP Client\TCP Client\obj\Debug\netcoreapp3.1\TCP Client.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Solvve\Client-Server & HTTP\TCP Client\TCP Client\obj\Debug\netcoreapp3.1\TCP Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Solvve\Client-Server & HTTP\TCP Client\TCP Client\obj\Debug\netcoreapp3.1\TCP Client.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Solvve\Client-Server & HTTP\TCP Client\TCP Client\obj\Debug\netcoreapp3.1\TCP Client.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Solvve\Client-Server & HTTP\TCP Client\TCP Client\obj\Debug\netcoreapp3.1\TCP Client.dll
+C:\Users\Admin\Desktop\Solvve\Client-Server & HTTP\TCP Client\TCP Client\obj\Debug\netcoreapp3.1\TCP Client.pdb
+C:\Users\Admin\Desktop\Solvve\Client-Server & HTTP\TCP Client\TCP Client\obj\Debug\netcoreapp3.1\TCP Client.genruntimeconfig.cache
